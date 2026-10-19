@@ -1,0 +1,11 @@
+.terraform/
+.vscode/
+
+*.tfstate
+*.tfstate.*
+
+terraform.tfvars
+*.tfvars
+*.auto.tfvars
+
+*.exe
